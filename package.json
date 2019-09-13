@@ -1,0 +1,19 @@
+{
+  "name": "crowpost",
+  "version": "1.0.0",
+  "description": "Mini Wordpress",
+  "main": "server/app.js",
+  "scripts": {
+    "test": "NODE_ENV='development' nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TigorLazuardi/mini-wp.git"
+  },
+  "author": "Tigor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TigorLazuardi/mini-wp/issues"
+  },
+  "homepage": "https://github.com/TigorLazuardi/mini-wp#readme"
+}
