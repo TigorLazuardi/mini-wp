@@ -15,5 +15,23 @@
   "bugs": {
     "url": "https://github.com/TigorLazuardi/mini-wp/issues"
   },
-  "homepage": "https://github.com/TigorLazuardi/mini-wp#readme"
+  "homepage": "https://github.com/TigorLazuardi/mini-wp#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.7.0",
+    "mongoose-unique-validator": "^2.0.3",
+    "mongoose-url-slugs": "^1.0.2",
+    "multer": "^1.4.2",
+    "vue": "^2.6.10",
+    "vue-hot-reload-api": "^2.3.4"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^3.0.0",
+    "faker": "^4.1.0",
+    "vue-template-compiler": "^2.6.10"
+  }
 }
